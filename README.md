@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://deft-pastelito-90dc3d.netlify.app/)
+- Live Site URL: https://deft-pastelito-90dc3d.netlify.app/
 
 ## My process
 

@@ -33,7 +33,7 @@ export default [
         paragraph:"sent you a private message ",
         time :"5 day ago",
         topic:"",
-        status:false,
+        status:true,
     },
     {
         id:5,
@@ -51,7 +51,7 @@ export default [
         paragraph:"reacted to your recent post ",
         time :"2 weeks ago",
         topic:"5 end-game strategies to increase your win rate",
-        status:true,
+        status:false,
     },
     {
         id:7,
@@ -60,7 +60,7 @@ export default [
         paragraph:"left the group ",
         time :"2 weeks ago",
         topic:"Chess Club",
-        status:true,
+        status:false,
     },
     {
         id:8,
@@ -69,7 +69,7 @@ export default [
         paragraph:"joined the group ",
         time :"3 weeks ago",
         topic:"Chess Club",
-        status:true,
+        status:false,
     }
     
 ]

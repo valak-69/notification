@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://deft-pastelito-90dc3d.netlify.app/)
+- Live Site URL: [](https://deft-pastelito-90dc3d.netlify.app/)
 
 ## My process
 
@@ -54,5 +54,5 @@ I'm still not completely comfortable with react hooks useState, useEffects. I'll
 
 ## Acknowledgments
 
-I would like to thank members of [BitByte] (https://github.com/BitByte-TPC) for helping me out whenever i got stuck on something.
+I would like to thank members of [BitByte](https://github.com/BitByte-TPC) for helping me out whenever i got stuck on something.
 

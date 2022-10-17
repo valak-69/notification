@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    background-color: #DBF3FA;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin-top: 90px;
+    width: 50%;
+    background-color: #ffffff;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    height: 70px;
+}
+.title,.btn-all{
+    margin: 0;
+}
+.title{
+    margin-right: 10px;
+    padding-left: 20px;
+    
+}
+.btn-all{
+    margin-right: 20px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #F5FCFF;
+    color: #868686;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-all:hover{
+    background-color: #2D87E2;
+    color: #ffffff;
+    font-weight: bold;
+}
+.count{
+    height: 20px;
+    width: 30px;
+    border-radius: 5px;
+    background-color: #0C71E0;
+    margin-right: auto;
+    text-align: center;
+    color: #ffffff;
+    align-items: center;
+}
+.white{
+    height: 20px;
+    width: 30px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin-right: auto;
+    text-align: center;
+    color: #ffffff;
+    align-items: center;
+}
+.noti{
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+.profile-image{
+    height: 40px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.dot{
+    position: relative;
+    left: 10px;
+    height: 5px;
+    width: 5px;
+    border-radius: 100%;
+    background-color: red;
+}
+.name{
+    font-weight: bold;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.topic{
+    font-weight: 600;
+    color: #868686;
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.blue{
+    background-color: #DBF3FA;
+}
+.noti-container{
+    margin: 5px 10px;
+    /* padding-bottom: 20px; */
+}
+.lmao{
+    padding-bottom: 10px;
+}
+.name:hover{
+    color: #2D87E2;
+}
+.topic:hover{
+    color: #2D87E2;
+}
+.para{
+    color: #868686;
+}
+.time-container{
+    margin-left: 75px;
+}
+.time{
+    color: #868686;
+    font-size: 14px;
+    padding-top: 10px;
+}
